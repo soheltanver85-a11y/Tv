@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMC.af@SD",AMC (1080p)
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AMC.af@SD",AMC (1080p)https://list.iptvcat.com/my_list/s/c17000883d50129703c55083e86f65c9.m3u8
+#EXTM3U
+
+#EXTINF:-1, My IPTV Channel
+https://list.iptvcat.com/my_list/s/0f4b96a0298530b9a3ae5f80e617778f.m3u8
+
