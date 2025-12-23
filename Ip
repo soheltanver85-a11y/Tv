@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-id=" news.ae@SD", jamuna TV (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
+#EXTINF:-1 tvg-id=" news.ae@SD", jamuna TV (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
