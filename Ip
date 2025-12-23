@@ -3,3 +3,5 @@
 
 #EXTINF:-1, My IPTV Channel
 https://list.iptvcat.com/my_list/s/c5db599604e1db7c8517ee6a4552e000.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae@SD",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
