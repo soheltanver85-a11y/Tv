@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Animal Planet HD
 http://66.102.120.18:8000/play/a001/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://217.20.112.199/animalplanet/index.m3u8
