@@ -1,14 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id=" news.ae@SD", jamuna TV (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
-#EXTINF:-1 tvg-id=" news.ae@SD", jamuna TV (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
-#EXTINF:-1,Discovery 
-http://213.169.39.30:5093
-#EXTINF:-1,Animal Planet
-http://213.169.39.30:5024
-#EXTINF:-1,National Geographic HD
-http://213.169.39.30:5215
-#EXTINF:-1,Nat Geo Wild HD
-http://213.169.39.30:5206
+
